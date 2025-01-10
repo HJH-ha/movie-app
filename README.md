@@ -14,7 +14,7 @@
 - **프론트엔드**: React (with Hooks)
 - **번들러**: Vite
 - **스타일링**: CSS Modules 또는 TailwindCSS (사용한 스타일링 도구에 따라 변경)
-- **API**: [OMDb API](https://www.omdbapi.com/) 또는 사용한 영화 API
+- **API**: [OMDb API](https://www.omdbapi.com/)
 
 ## 배포 사이트 🌐
 
